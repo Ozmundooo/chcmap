@@ -12,7 +12,7 @@ li {
 /* Relative positioning*/
 #image-map {
   position: relative;
-  margin: 150px auto 20px auto;
+  margin: 0px auto 20px auto;
 }
 
 /* Hide the original tooltips contents */
