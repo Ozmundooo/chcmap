@@ -23,9 +23,9 @@ li {
 /* Begin styling the tooltips and pins */
 .tooltip-up, .tooltip-down {
   position: absolute;
-
+  /* background: url(pinsBlack.png); */
   width: 25px;
-  height: 37px;
+  height: 33px;
 }
 
 .tooltip-down {
@@ -84,7 +84,7 @@ li {
   bottom: -10px;
   top: auto;
   border-bottom: 0;
-  border-top: 10px solid #ffdb90;
+  border-top: 5px solid black;
 }
 
 .myvideos {
